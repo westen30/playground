@@ -99,8 +99,8 @@ ENV/
 .mypy_cache/
 
 #Jupyter
-.ipython/
-.cache/
-.config/
-.local/**/
+.ipython/*
+.cache/*
+.config/*
+.local/*
 work/IBNK1117.CSV
