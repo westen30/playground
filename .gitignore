@@ -104,3 +104,4 @@ ENV/
 .config/
 .local/
 work/IBNK1117.CSV
+.local/share/
