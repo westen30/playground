@@ -103,4 +103,7 @@ ENV/
 /.cache/*
 /.config/*
 /.local/*
+/.keras/*
 /work/IBNK1117.CSV
+/input/*
+/.jupyter/*
